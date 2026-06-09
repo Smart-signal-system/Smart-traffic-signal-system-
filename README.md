@@ -188,7 +188,7 @@ Smart-Traffic-Signal-System/
 
 ## 🚗 Demo
 
-here is a link to the demo
+(view the demo)[https://smart-signal-system.github.io/Smart-traffic-signal-system-/]
 
 ---
 
