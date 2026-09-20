@@ -1,5 +1,4 @@
-
-# 🚦 Smart Traffic Signal System
+🚦 Smart Traffic Signal System
 
 An AI-powered traffic management system that uses Computer Vision and Reinforcement Learning to dynamically control traffic signals based on real-time traffic conditions.
 
@@ -7,7 +6,7 @@ The system combines YOLOv8 for vehicle detection, DeepSORT for vehicle tracking,
 
 ---
 
-## 📌 Project Overview
+ 📌 Project Overview
 
 Traditional traffic lights rely on fixed timers and cannot adapt to changing traffic conditions. This often leads to:
 
